@@ -1,0 +1,1 @@
+# Please-use-Codeberg.org-as-an-alternative-to-GitHub
